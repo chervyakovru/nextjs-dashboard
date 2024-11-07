@@ -4,6 +4,8 @@
     "*.css": "tailwindcss"
   },
   "cSpell.words": [
+    "clsx",
+    "heroicons",
     "lusitana"
   ]
 
